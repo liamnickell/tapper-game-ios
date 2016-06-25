@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  tapper-game-v2
+//  tapper-game
 //
 //  Created by Liam Nickell on 6/25/16.
 //  Copyright © 2016 Liam Nickell. All rights reserved.
